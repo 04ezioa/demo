@@ -2,4 +2,8 @@ rozsa
 tulipan
 narcisz
 liliom
+<<<<<<< HEAD
 jacint
+=======
+kutytej
+>>>>>>> a48e0d226a88d2511a054fdbdc0750ff1e0b5c1e
